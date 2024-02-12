@@ -1,0 +1,30 @@
+.list-item {
+  list-style-type: none;
+  margin-right: 20px;
+  background-color: #ffffff;
+  color: #171f46;
+  font-size: 15px;
+}
+
+.list-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.style {
+  display: flex;
+  justify-content: space-between;
+}
+.duration {
+  color: #2b237c;
+  font-size: 15px;
+}
+.desc {
+  font-size: 15px;
+}
+.dur-set {
+  display: flex;
+}
+.icon {
+  margin-top: 20px;
+}

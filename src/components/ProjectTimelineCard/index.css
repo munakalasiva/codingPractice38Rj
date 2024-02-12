@@ -1,0 +1,17 @@
+.img {
+  height: 150px;
+  width: 200px;
+}
+.desc {
+  font-size: 15px;
+}
+.pro-set {
+  display: flex;
+}
+.icon {
+  margin-top: 20px;
+}
+.title-set {
+  display: flex;
+  justify-content: space-between;
+}
